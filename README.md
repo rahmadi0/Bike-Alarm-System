@@ -1,4 +1,4 @@
-# Turn signals with adaptive taillights
+# Smart Bike Sefty Alarm System
 
 Automotive-bicycle accidents cause hundreds of deaths and thousands of injuries every year — cyclist visibility is a leading safety concern.
 
